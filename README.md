@@ -1,7 +1,7 @@
 # Free-Grammarly-Premium-Suggestions
 ## Description:
 
-Ever hated the fact that Grammarly only gives you 3 free premium suggestions? Well, I have. In fact, the first word of this description has a yellow underline. This code is a simple bookmarklet that allows you to get the suggestion for free.
+Ever hated the fact that Grammarly only gives you 3 free premium suggestions a day? Well, I have. In fact, the first word of this description has a yellow underline. This code is a simple bookmarklet that allows you to get the suggestion for free.
 
 ## How to use:
 
