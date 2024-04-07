@@ -9,4 +9,4 @@ Simply click the bookmarklet and quickly hover your mouse over the yellow underl
 
 ## How to install:
 
-Go to the code.js file and copy everything. Then go to Chrome and right-click the bookmark bar. After that, click "Add page" and for the URL paste in the code. The name can be anything. For Opera GX, its just as simple as right-clicking the bookmark bar and clicking "Add site" and pasting the code in. Other browser compatibility help: [Bookmarklets on web browsers](https://mreidsma.github.io/bookmarklets/installing.html).
+Go to the code.js file and copy everything. Then go to Chrome and right-click the bookmark bar. After that, click "Add page" and for the URL paste in the code. The name can be anything. For Opera GX, its just as simple as right-clicking the bookmark bar and clicking "Add site" and pasting the code in. Other browser compatibility help: [Installing bookmarklets on web browsers](https://mreidsma.github.io/bookmarklets/installing.html).
